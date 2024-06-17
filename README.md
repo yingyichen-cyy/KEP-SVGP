@@ -1,5 +1,5 @@
 # KEP-SVGP
-(ICML 2024) PyTorch implementation of **KEP-SVGP** available on [OpenReview](https://openreview.net/forum?id=4RqG4K5UwL).
+(ICML 2024) PyTorch implementation of **KEP-SVGP** attention mechanism available on [OpenReview](https://openreview.net/forum?id=4RqG4K5UwL).
 
 **Self-Attention through Kernel-Eigen Pair Sparse Variational Gaussian Processes**
 
