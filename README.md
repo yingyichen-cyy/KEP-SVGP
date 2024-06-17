@@ -15,7 +15,7 @@ by *[Yingyi Chen*](https://yingyichen-cyy.github.io/),
 <!-- [[Project Page](https://yingyichen-cyy.github.io/Primal-Attention/)] -->
 
 <p align="center">
-<img src="./img/pipeline.jpg" height = "190" alt="" align=center />
+<img src="./img/workflow.jpeg" height = "190" alt="" align=center />
 <br><br>
 <b>Figure 1.</b> An illustration of canonical self-attention and our KEP-SVGP attention in one layer.
 </p>
@@ -30,3 +30,15 @@ If our project is helpful for your research, please consider citing:
 }
 ```
 
+## Table of Content
+Please refer to different folders for detailed experiment instructions. 
+Note that we specified **different environments for different tasks**.
+
+Please feel free to contact chenyingyi076@gmail.com for any discussion.
+
+* [1. CIFAR](https://github.com/yingyichen-cyy/KEP-SVGP/tree/master/CIFAR)
+* [2. CoLA](https://github.com/yingyichen-cyy/KEP-SVGP/tree/master/CoLA)
+* [3. IMDB](https://github.com/yingyichen-cyy/KEP-SVGP/tree/master/IMDB)
+
+## Acknowledgement
+This repository is based on the official codes of 
