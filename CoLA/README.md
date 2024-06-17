@@ -29,4 +29,4 @@ and use `in_domain_train.tsv`, `in_domain_dev.tsv`, `out_of_domain_dev.tsv` from
 Please train our model according to `run_cola.sh`.
 
 ## Acknowledgement
-This code is based on the official codes of [huggingface](https://github.com/huggingface/transformers/blob/v4.36.1/src/transformers/models/bert/modeling_bert.py#L681), [SGPA](https://github.com/chenw20/SGPA/).
+This code is based on the official codes of [huggingface](https://github.com/huggingface/transformers/blob/v4.36.1/src/transformers/models/bert/modeling_bert.py), [SGPA](https://github.com/chenw20/SGPA/).

@@ -42,3 +42,13 @@ Please feel free to contact chenyingyi076@gmail.com for any discussion.
 
 ## Acknowledgement
 This repository is based on the official codes of 
+**CIFAR**:
+[SGPA](https://github.com/chenw20/SGPA/), 
+[OpenMix](https://github.com/Impression2805/OpenMix),
+[ViT-CIFAR](https://github.com/omihub777/ViT-CIFAR/tree/main),
+**CoLA**:
+[SGPA](https://github.com/chenw20/SGPA/),
+[huggingface](https://github.com/huggingface/transformers/blob/v4.36.1/src/transformers/models/bert/modeling_bert.py),
+**IMDB**:
+[pytorch-sentiment-analysis](https://github.com/bentrevett/pytorch-sentiment-analysis/tree/master), 
+[text](https://github.com/pytorch/text).
