@@ -15,7 +15,7 @@ by *[Yingyi Chen*](https://yingyichen-cyy.github.io/),
 <!-- [[Project Page](https://yingyichen-cyy.github.io/Primal-Attention/)] -->
 
 <p align="center">
-<img src="./img/workflow.jpeg" height = "190" alt="" align=center />
+<img src="./img/workflow.jpeg" height = "320" alt="" align=center />
 <br><br>
 <b>Figure 1.</b> An illustration of canonical self-attention and our KEP-SVGP attention in one layer.
 </p>
