@@ -1,7 +1,7 @@
 # CIFAR
 
 ## Environment
-Our model can be learnt on a **single NVIDIA GeForce RTX 2070 SUPER GPU** 
+Our model can be learnt on a **single NVIDIA GeForce RTX 2070 SUPER GPU**. 
 ```
 conda create -n uncertainty python=3.8
 conda activate uncertainty
@@ -36,3 +36,7 @@ The structure of the file should be:
 
 ## Run Tasks
 Please train our model according to `run/vit_cifar10.sh` and `run/vit_cifar100.sh`.
+
+## OOD 
+* Please refer to [ATOM](https://github.com/jfc43/informative-outlier-mining) for downloading out-of-distribution test datasets. 
+* OOD detection code can be based on `eval_with_logits.py` from [MOODv1](https://github.com/dvlab-research/MOOD/tree/master/MOODv1).
