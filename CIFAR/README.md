@@ -42,4 +42,4 @@ Please train our model according to `run/vit_cifar10.sh` and `run/vit_cifar100.s
 * OOD detection code can be based on `eval_with_logits.py` from [MOODv1](https://github.com/dvlab-research/MOOD/tree/master/MOODv1).
 
 ## Acknowledgement
-This code is based on the official codes of [SGPA](https://github.com/chenw20/SGPA/tree/main), [OpenMix](https://github.com/Impression2805/OpenMix), and [ViT-CIFAR](https://github.com/omihub777/ViT-CIFAR/tree/main).
+This code is based on the official codes of [SGPA](https://github.com/chenw20/SGPA/), [OpenMix](https://github.com/Impression2805/OpenMix), and [ViT-CIFAR](https://github.com/omihub777/ViT-CIFAR/tree/main).
