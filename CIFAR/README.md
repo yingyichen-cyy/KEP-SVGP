@@ -40,3 +40,6 @@ Please train our model according to `run/vit_cifar10.sh` and `run/vit_cifar100.s
 ## OOD 
 * Please refer to [ATOM](https://github.com/jfc43/informative-outlier-mining) for downloading out-of-distribution test datasets. 
 * OOD detection code can be based on `eval_with_logits.py` from [MOODv1](https://github.com/dvlab-research/MOOD/tree/master/MOODv1).
+
+## Acknowledgement
+This code is based on the official codes of [SGPA](https://github.com/chenw20/SGPA/blob/main/train_cola.py), [OpenMix](https://github.com/Impression2805/OpenMix), and [ViT-CIFAR](https://github.com/omihub777/ViT-CIFAR/tree/main).
