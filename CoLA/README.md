@@ -17,11 +17,12 @@ Please download the dataset via
 ```
 wget https://nyu-mll.github.io/CoLA/cola_public_1.1.zip
 ```
-and use `in_domain_train.tsv`, `in_domain_dev.tsv` from the `raw/` folder. The structure of the file should be:
+and use `in_domain_train.tsv`, `in_domain_dev.tsv`, `out_of_domain_dev.tsv` from the `raw/` folder. The structure of the file should be:
 ```
 ./data/
   ├── in_domain_train.tsv
-  └── in_domain_dev.tsv
+  ├── in_domain_dev.tsv
+  └── out_of_domain_dev.tsv
 ```
 
 ## Run Tasks
