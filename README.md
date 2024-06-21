@@ -10,9 +10,9 @@ by *[Yingyi Chen*](https://yingyichen-cyy.github.io/),
 
 [[arXiv](https://arxiv.org/abs/2402.01476)]
 [[PDF](https://openreview.net/forum?id=4RqG4K5UwL)]
-<!-- [[Video](https://nips.cc/virtual/2023/poster/71144)] -->
-<!-- [[Poster](https://yingyichen-cyy.github.io/Primal-Attention/resrc/poster.pdf)] -->
-<!-- [[Project Page](https://yingyichen-cyy.github.io/Primal-Attention/)] -->
+[[Video]()]
+[[Poster]()]
+[[Project Page](https://yingyichen-cyy.github.io/KEP_SVGP/)]
 
 <p align="center">
 <img src="./img/workflow.jpeg" height = "320" alt="" align=center />
