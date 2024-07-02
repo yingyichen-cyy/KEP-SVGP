@@ -11,7 +11,7 @@ by *[Yingyi Chen*](https://yingyichen-cyy.github.io/),
 [[arXiv](https://arxiv.org/abs/2402.01476)]
 [[PDF](https://openreview.net/forum?id=4RqG4K5UwL)]
 [[Video]()]
-[[Poster]()]
+[[Poster](https://yingyichen-cyy.github.io/KEP_SVGP/resrc/poster.pdf)]
 [[Project Page](https://yingyichen-cyy.github.io/KEP_SVGP/)]
 
 <p align="center">
